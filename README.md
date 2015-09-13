@@ -23,5 +23,5 @@ $python package 330+
 https://store.continuum.io/cshop/anaconda/
 
 MongoDB + Pig
-https://github.com/mongodb/mongo-hadoop/wiki/Pig-Usage
-https://www.mongodb.com/presentations/mongosv-2012/mongodb-pig
+-https://github.com/mongodb/mongo-hadoop/wiki/Pig-Usage
+-https://www.mongodb.com/presentations/mongosv-2012/mongodb-pig
