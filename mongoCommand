@@ -1,0 +1,6 @@
+#MongoDB Command
+
+$move the collection to new db<br>
+<br>
+use admin<br>
+db.runCommand({renameCollection: 'db1.source_collection, to: 'db2.target_collection'}) <br>
