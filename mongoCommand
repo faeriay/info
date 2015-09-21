@@ -1,6 +1,10 @@
 #MongoDB Command
 
 
-$move the collection to new db
+$to clone:
+use db1
+db.source_collection.find().forEach( function(x){db.collection_copy.insert(x)} );
+
+$move the collection to new db:
 use admin
 db.runCommand({renameCollection: 'db1.source_collection, to: 'db2.target_collection'})
