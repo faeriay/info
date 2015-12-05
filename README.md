@@ -1,8 +1,11 @@
 ﻿#IT 網路資源
 
-$IT_免費電子書_穎芬提供<br>
+$IT_免費電子書_Fen提供<br>
 https://it-ebooks.info/
 <br>
+$Online Linux<br>
+http://bellard.org/jslinux/
+
 $斷詞<br>
 http://ckipsvr.iis.sinica.edu.tw/
 <br>
